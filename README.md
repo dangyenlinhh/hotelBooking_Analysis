@@ -6,12 +6,16 @@
 
 **Linkedln**: https://www.linkedin.com/in/dangyenlinhh/
 
+**Presentation video**: [Hotel Booking Analysis presentation](https://www.youtube.com/watch?v=TQRR0950vJE&t=418s)
+
 *Explore the full interactive experience and uncover hidden insights in my dashboards by visiting **My Tableau Public link**. Thank you!*
+
+
 
 ![](images/hotelBooking_background.jpg)
 
 # Project overview
-This project utilized Tableau Prep for data preprocessing, and Tableau Desktop for creating storytelling including dashboards illustrating booking and cancellation trends, analyzing cancellation reasons, and providing forecasts for the upcoming year. In addition, I also proposed solutions to increase the number of bookings and minimize cancellations.
+This project utilized **Tableau Prep** for data preprocessing, and **Tableau Desktop** for creating storytelling including dashboards illustrating booking and cancellation trends, analyzing cancellation reasons, and providing forecasts for the upcoming year. In addition, I also proposed solutions to increase the number of bookings and minimize cancellations.
 
 # About Dataset 
 
