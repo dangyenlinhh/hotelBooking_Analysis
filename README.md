@@ -25,3 +25,44 @@ Booking between the 1st of July 2015 and the 31st of August 2017, including book
 The data is originally from the article [Hotel Booking Demand Dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191), written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
 The data I used in this project was adjusted by Th.S Doan Thi Tram.
+
+# Task 1: Data Preparation
+
+
+
+Bỏ ảnh tableau prep vào
+
+liệt kê làm gì 
+
+
+
+
+# Task 2: Data Visualization and Storytelling
+
+### Objectives
+- Develop a dashboard
+- Analyze the results and provide recommendations to clients.
+
+## Result 
+
+
+Summary of the target of the hotel 
+# ảnh 1
+
+
+Let's start with observation-created dashboards illustrating booking and cancellation trends, analyzing cancellation reasons, and providing forecasts for the upcoming year.
+
+# ảnh 2
+
+The data set includes bookings from July 2015 to the end of August 2017. In order to provide an overview of the hotel's business situation during the year, the above dashboard was built to provide some information :
+
+- The rate of total booking of City Hotel and Resort Hotel.
+- The number of cancellation rates and confirmation rates.
+
+
+
+
+
+
+
+
