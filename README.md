@@ -58,9 +58,32 @@ The data set includes bookings from July 2015 to the end of August 2017. In orde
 
 - The rate of total booking of City Hotel and Resort Hotel.
 - The number of cancellation rates and confirmation rates.
+- The rate of old guests, new guests as well as customer type distribution.
+- Monitor total bookings and cancellations trends
+- Most country guests are from because each country has different cultural and culinary characteristics.
 
 
 
+# ảnh 3
+The dashboard above provides detailed information about:
+- The difference in the total bookings, cancellations, confirmations, and total stays between the current year and the previous year.
+- Average daily rate trends per month.
+- Understanding guest preferences: couples, families, singles.
+- Some demands of guests such as: stay nights, meal, reserver room
+
+Besides that, I also analyzed details about cancellations, causes of cancellations, as well as demand of guests. 
+# ảnh 4
+
+# ảnh 5
+# ảnh 6
+
+
+## Recommendation
+
+For more details, check out this video presented by me:
+
+# ảnh youtube
+  
 
 
 
