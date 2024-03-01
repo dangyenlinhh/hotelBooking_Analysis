@@ -80,7 +80,7 @@ Besides that, I also analyzed details about cancellations, causes of cancellatio
 
 ## Recommendation
 
-For more details, check out this video presented by me:
+For more details, check out this video presented by me:  [Hotel Booking Analysis presentation](https://www.youtube.com/watch?v=TQRR0950vJE&t=418s)
 
 # ảnh youtube
   
