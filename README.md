@@ -6,9 +6,13 @@
 
 **Linkedln**: https://www.linkedin.com/in/dangyenlinhh/
 
+*Explore the full interactive experience and uncover hidden insights in my dashboards by visiting My Tableau Public and video presented by me. Thank you!*
+
+**Tableau link**: 
+
 **Presentation video**: [Hotel Booking Analysis presentation](https://www.youtube.com/watch?v=TQRR0950vJE&t=418s)
 
-*Explore the full interactive experience and uncover hidden insights in my dashboards by visiting **My Tableau Public link**. Thank you!*
+
 
 
 
@@ -28,13 +32,7 @@ The data I used in this project was adjusted by Th.S Doan Thi Tram.
 
 # Task 1: Data Preparation
 
-
-
-Bỏ ảnh tableau prep vào
-
-liệt kê làm gì 
-
-
+![](images/preparation.jpg)
 
 
 # Task 2: Data Visualization and Storytelling
@@ -43,16 +41,16 @@ liệt kê làm gì
 - Develop a dashboard
 - Analyze the results and provide recommendations to clients.
 
-## Result 
-
+### Result 
 
 Summary of the target of the hotel 
-# ảnh 1
+
+![](images/target.jpg)
 
 
 Let's start with observation-created dashboards illustrating booking and cancellation trends, analyzing cancellation reasons, and providing forecasts for the upcoming year.
 
-# ảnh 2
+![](images/overview.jpg)
 
 The data set includes bookings from July 2015 to the end of August 2017. In order to provide an overview of the hotel's business situation during the year, the above dashboard was built to provide some information :
 
@@ -60,11 +58,9 @@ The data set includes bookings from July 2015 to the end of August 2017. In orde
 - The number of cancellation rates and confirmation rates.
 - The rate of old guests, new guests as well as customer type distribution.
 - Monitor total bookings and cancellations trends
-- Most country guests are from because each country has different cultural and culinary characteristics.
-
-
-
-# ảnh 3
+- Most country guests are from because each country has different cultural and culinary characteristics
+  
+![](images/overview_by_year.jpg)
 The dashboard above provides detailed information about:
 - The difference in the total bookings, cancellations, confirmations, and total stays between the current year and the previous year.
 - Average daily rate trends per month.
@@ -72,17 +68,17 @@ The dashboard above provides detailed information about:
 - Some demands of guests such as: stay nights, meal, reserver room
 
 Besides that, I also analyzed details about cancellations, causes of cancellations, as well as demand of guests. 
-# ảnh 4
 
-# ảnh 5
-# ảnh 6
+![](images/cancellation.jpg)
+![](images/causes_1.jpg)
+![](images/causes_2.jpg)
 
 
 ## Recommendation
+![](images/recommendation.jpg)
 
-For more details, check out this video presented by me:  [Hotel Booking Analysis presentation](https://www.youtube.com/watch?v=TQRR0950vJE&t=418s)
 
-# ảnh youtube
+
   
 
 
