@@ -8,7 +8,7 @@
 
 *Explore the full interactive experience and uncover hidden insights in my dashboards by visiting My Tableau Public and video presented by me. Thank you!*
 
-**Tableau link**: 
+**Tableau link**: [Hotel Booking Analysis](https://public.tableau.com/app/profile/linh.dang.yen/viz/HotelBookingAnalysis_17090970585500/StoryHotelBooking)
 
 **Presentation video**: [Hotel Booking Analysis presentation](https://www.youtube.com/watch?v=TQRR0950vJE&t=418s)
 
