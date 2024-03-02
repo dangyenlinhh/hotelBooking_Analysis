@@ -34,6 +34,7 @@ The data I used in this project was adjusted by Th.S Doan Thi Tram.
 
 ![](images/preparation.jpg)
 
+In this step, I changed types, grouped values, removed letters, removed irrelevant fields, and union fields, de-duplicate, join.
 
 # Task 2: Data Visualization and Storytelling
 
