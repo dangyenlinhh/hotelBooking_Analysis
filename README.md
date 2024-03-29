@@ -73,7 +73,7 @@ Besides that, I also analyzed details about cancellations, causes of cancellatio
 ![](images/cancellation.jpg)
 ![](images/causes_1.jpg)
 ![](images/causes_2.jpg)
-
+![](images/demand.jpg)
 
 ## Recommendation
 ![](images/recommendation.jpg)
