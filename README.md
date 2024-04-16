@@ -75,6 +75,9 @@ Besides that, I also analyzed details about cancellations, causes of cancellatio
 ![](images/causes_2.jpg)
 ![](images/demand.jpg)
 
+## Forecast
+![](images/forecast.jpg)
+
 ## Recommendation
 ![](images/recommendation.jpg)
 
